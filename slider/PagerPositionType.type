@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simple-type xmlns="http://www.sap.com/sap.ui.library.xsd" >
+
+  <name>PagerPositionType</name>
+  <author>Vladimir Gerasimov</author>
+  <documentation>Position of thumbnails in pager.</documentation>
+  
+  <enumeration>
+    <value name="left" >
+      <documentation>position of thumbnails 'left'.</documentation>
+    </value>
+    <value name="middle" >
+      <documentation>position of thumbnails 'middle'.</documentation>
+    </value>
+    <value name="right" >
+      <documentation>position of thumbnails 'right'.</documentation>
+    </value>
+  </enumeration>
+  
+</simple-type>

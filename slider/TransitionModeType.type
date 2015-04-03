@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simple-type xmlns="http://www.sap.com/sap.ui.library.xsd" >
+
+  <name>TransitionMode</name>
+  <author>Vladimir Gerasimov</author>
+  <documentation>Type of transition.</documentation>
+  
+  <enumeration>
+    <value name="slide" >
+      <documentation>Type of transition 'slide'.</documentation>
+    </value>
+    <value name="fade" >
+      <documentation>Type of transition 'fade'.</documentation>
+    </value>
+  </enumeration>
+  
+</simple-type>
